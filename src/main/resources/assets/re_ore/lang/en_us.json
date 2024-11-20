@@ -1,0 +1,9 @@
+{
+  "item.re_ore.tore": "Tore",
+
+  "block.re_ore.test_ore": "Test Ore",
+  "block.re_ore.regen_ore_entity": "Regen Ore",
+  "block.re_ore.regened_ore": "Regened Ore",
+
+  "creativetab.reore_tab": "Regen Ore Tab"
+}
