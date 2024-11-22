@@ -121,6 +121,11 @@ repositories {
     // flatDir {
     //     dir 'libs'
     // }
+    mavenCentral()
+    maven {
+        name = 'forge'
+        url = 'https://maven.minecraftforge.net'
+    }
 }
 
 dependencies {
